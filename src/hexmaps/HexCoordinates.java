@@ -1,0 +1,15 @@
+package hexmaps;
+
+public class HexCoordinates
+{	
+	int x;
+	int y;
+	int z;
+	
+	public HexCoordinates(int x, int y, int z)
+	{
+		this.x = x;
+		this.y = y;
+		this.z = z;
+	}
+}
